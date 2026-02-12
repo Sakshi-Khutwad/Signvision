@@ -1,0 +1,5229 @@
+[
+    {
+        "gloss": "BABY",
+        "category": "CORE",
+        "anchor": [
+            "BABY COT",
+            "BABY CARE",
+            "BABY SHOWER"
+        ]
+    },
+    {
+        "gloss": "BACK",
+        "category": "CORE",
+        "anchor": [
+            "BACK OFFICE",
+            "BACK UP",
+            "BACK LINK",
+            "BACK PART",
+            "BACK DATE"
+        ]
+    },
+    {
+        "gloss": "BACK, RETURN",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK, GO BACK, REVERSE",
+            "BACK, BEHIND"
+        ]
+    },
+    {
+        "gloss": "BACK, BEHIND",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK, RETURN",
+            "BACK, GO BACK, REVERSE"
+        ]
+    },
+    {
+        "gloss": "BACK, GO BACK, REVERSE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK, RETURN",
+            "BACK, BEHIND"
+        ]
+    },
+    {
+        "gloss": "BACKBREAKING, ARDUOUS, STRENUOUS, GRUELLING",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKGROUND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKHAND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKSTAB, BETRAY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKSTROKE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAD",
+        "category": "CORE",
+        "anchor": [
+            "BAD LANGUAGE, VERBAL ABUSE",
+            "BAD CLIMATE ALLOWANCE",
+            "BAD BLOOD"
+        ]
+    },
+    {
+        "gloss": "BAD BLOOD",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAD LANGUAGE, VERBAL ABUSE",
+            "BAD CLIMATE ALLOWANCE",
+            "BAD"
+        ]
+    },
+    {
+        "gloss": "BAD LANGUAGE, VERBAL ABUSE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAD CLIMATE ALLOWANCE",
+            "BAD",
+            "BAD BLOOD"
+        ]
+    },
+    {
+        "gloss": "BADGE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BADGE, PIN",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BADMINTON",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAG",
+        "category": "CORE",
+        "anchor": [
+            "BAG MASK DEVICE"
+        ]
+    },
+    {
+        "gloss": "BAG, BACKPACK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAG, SLING BAG"
+        ]
+    },
+    {
+        "gloss": "BAG, SLING BAG",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAG, BACKPACK"
+        ]
+    },
+    {
+        "gloss": "BAGGAGE RECLAIM",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAGGAGE"
+        ]
+    },
+    {
+        "gloss": "BAHUJAN SAMAJ PARTY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BAILS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAJAJ BIKE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BAKE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAKE, BAKING",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BAKERY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALANCE",
+        "category": "CORE",
+        "anchor": [
+            "BALANCE OF TRADE",
+            "BALANCE OF INTERNATIONAL PAYMENTS",
+            "BALANCE SHEET"
+        ]
+    },
+    {
+        "gloss": "BALCONY",
+        "category": "CORE",
+        "anchor": [
+            "BALCONY GARDEN"
+        ]
+    },
+    {
+        "gloss": "BALD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALL",
+        "category": "CORE",
+        "anchor": [
+            "BALL BEARING",
+            "BALL BONDING",
+            "BALL PEIN HAMMER",
+            "BALL AND SOCKET JOINT"
+        ]
+    },
+    {
+        "gloss": "BALLET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALLOON",
+        "category": "CORE",
+        "anchor": [
+            "BALLOON PUMP"
+        ]
+    },
+    {
+        "gloss": "BALM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAMBOO",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANANA",
+        "category": "CORE",
+        "anchor": [
+            "BANANA TREE"
+        ]
+    },
+    {
+        "gloss": "BANANA TREE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANANA"
+        ]
+    },
+    {
+        "gloss": "BANDAGE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAND-AID",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANDH, GENERAL STRIKE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BANDIT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANDRA TO WORLI SEA LINK",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BANGLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANK",
+        "category": "CORE",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK OF BARODA",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANK ACCOUNT NUMBER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK OF BARODA",
+            "BANK",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANK BRANCH ADDRESS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH NAME",
+            "BANK OF BARODA",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANK BRANCH CODE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK OF BARODA",
+            "BANK",
+            "BANK ACCOUNT NUMBER"
+        ]
+    },
+    {
+        "gloss": "BANK BRANCH NAME",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK OF BARODA",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANK OF BARODA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANK OF MAHARASHTRA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANKER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANNER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANQUET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARBER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARK, BOW-WOW, WOOF",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BARRICADE, BARRIER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BASEBALL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BASELINE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BASIC",
+        "category": "CORE",
+        "anchor": [
+            "BASIC PAY",
+            "BASIC NEEDS AND UNIVERSAL ACCESS",
+            "BASIC NEEDS"
+        ]
+    },
+    {
+        "gloss": "BASIL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BASKET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BASKETBALL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BATH",
+        "category": "CORE",
+        "anchor": [
+            "BATH TUB"
+        ]
+    },
+    {
+        "gloss": "BATH TUB",
+        "category": "COMPOUND",
+        "anchor": [
+            "BATH"
+        ]
+    },
+    {
+        "gloss": "BATHROOM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BATMAN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BATTER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BE YOURSELF",
+        "category": "COMPOUND",
+        "anchor": [
+            "BE ON SOMEONE'S BACK"
+        ]
+    },
+    {
+        "gloss": "BEACH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEAR",
+        "category": "CORE",
+        "anchor": [
+            "BEAR FRUIT"
+        ]
+    },
+    {
+        "gloss": "BEAR FRUIT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEAR"
+        ]
+    },
+    {
+        "gloss": "BEAR, ENDURE, TOLERATE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEARD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEAT",
+        "category": "CORE",
+        "anchor": [
+            "BEAT , BEAT OFFICER",
+            "BEAT AROUND THE BUSH"
+        ]
+    },
+    {
+        "gloss": "BEAT AROUND THE BUSH",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEAT , BEAT OFFICER",
+            "BEAT"
+        ]
+    },
+    {
+        "gloss": "BEAT, DEFEAT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEAT, TRIUMPH, OUTDO, BE VICTORIOUS"
+        ]
+    },
+    {
+        "gloss": "BEAT, TRIUMPH, OUTDO, BE VICTORIOUS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEAT, DEFEAT"
+        ]
+    },
+    {
+        "gloss": "BEAUTIFUL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BECOME",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BED REST",
+        "category": "COMPOUND",
+        "anchor": [
+            "BED CRADLE"
+        ]
+    },
+    {
+        "gloss": "BEDRIDDEN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEDROOM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEDWETTING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEEHIVE, HIVE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEETROOT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEFORE",
+        "category": "GRAMMAR & FUNCTION",
+        "anchor": [
+            "BEFORE CHRIST AND ANNO DOMINI",
+            "BEFORE HAND"
+        ]
+    },
+    {
+        "gloss": "BEHAVIOUR, CONDUCT, MANNER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEHEAD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEHIND",
+        "category": "CORE",
+        "anchor": [
+            "BEHIND BARS",
+            "BEHIND SOMEONE'S BACK"
+        ]
+    },
+    {
+        "gloss": "BEHIND BARS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEHIND",
+            "BEHIND SOMEONE'S BACK"
+        ]
+    },
+    {
+        "gloss": "BEHIND SOMEONE'S BACK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEHIND",
+            "BEHIND BARS"
+        ]
+    },
+    {
+        "gloss": "BELIEVE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BELL",
+        "category": "CORE",
+        "anchor": [
+            "BELL PEPPER",
+            "BELL SLEEVE",
+            "BELL BOTTOMS"
+        ]
+    },
+    {
+        "gloss": "BELOW",
+        "category": "CORE",
+        "anchor": [
+            "BELOW POVERTY LINE"
+        ]
+    },
+    {
+        "gloss": "BELT",
+        "category": "CORE",
+        "anchor": [
+            "BELT LOOPS"
+        ]
+    },
+    {
+        "gloss": "BENEFIT, PROFIT, GAIN",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BENGALI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BERTH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEST",
+        "category": "CORE",
+        "anchor": [
+            "BEST PRACTICE"
+        ]
+    },
+    {
+        "gloss": "BET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BETTER",
+        "category": "CORE",
+        "anchor": [
+            "BETTER LATE THAN NEVER"
+        ]
+    },
+    {
+        "gloss": "BETWEEN, IN THE MIDDLE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BETWEEN, MIDDLE"
+        ]
+    },
+    {
+        "gloss": "BETWEEN, MIDDLE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BETWEEN, IN THE MIDDLE"
+        ]
+    },
+    {
+        "gloss": "BEVERAGE, DRINK",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEWARE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BHARATIYA JANATA PARTY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIB",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIG",
+        "category": "CORE",
+        "anchor": [
+            "BIG TOE",
+            "BIG BANG THEORY"
+        ]
+    },
+    {
+        "gloss": "BIKE, MOTORCYCLE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BILINGUAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BILL",
+        "category": "CORE",
+        "anchor": [
+            "BILL BOARD",
+            "BILL OF LADING"
+        ]
+    },
+    {
+        "gloss": "BINDI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIRDS",
+        "category": "CORE",
+        "anchor": [
+            "BIRDS OF A FEATHER FLOCK TOGETHER"
+        ]
+    },
+    {
+        "gloss": "BIRTHDAY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIRTHMARK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BISCUIT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BITE",
+        "category": "CORE",
+        "anchor": [
+            "BITE THE BULLET"
+        ]
+    },
+    {
+        "gloss": "BITTER GOURD",
+        "category": "COMPOUND",
+        "anchor": [
+            "BITTER"
+        ]
+    },
+    {
+        "gloss": "BIWEEKLY, FORTNIGHTLY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLACK",
+        "category": "CORE",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK HOLE",
+            "BLACK MARKET OR SHADOW ECONOMY OR UNDERGROUND ECONOMY",
+            "BLACK WATER",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLACKBERRY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLACKBOARD",
+        "category": "CORE",
+        "anchor": [
+            "BLACKBOARD DUSTER"
+        ]
+    },
+    {
+        "gloss": "BLACKBOARD DUSTER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACKBOARD"
+        ]
+    },
+    {
+        "gloss": "BLANK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLANKET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLEAT, BAA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLEND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLESS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLINDFOLD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLINDS, SHADE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLINK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOCK",
+        "category": "CORE",
+        "anchor": [
+            "BLOCK EDUCATION OFFICER",
+            "BLOCK INSTITUTE OF TEACHER EDUCATION",
+            "BLOCK RESOURCE CENTRE"
+        ]
+    },
+    {
+        "gloss": "BLOCKS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOOD",
+        "category": "CORE",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD BANK",
+            "BLOOD CELLS"
+        ]
+    },
+    {
+        "gloss": "BLOOD PRESSURE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK",
+            "BLOOD CELLS"
+        ]
+    },
+    {
+        "gloss": "BLOUSE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOW",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLUE",
+        "category": "CORE",
+        "anchor": [
+            "BLUE REVOLUTION",
+            "BLUE FLOWERED PLANTS",
+            "BLUE WATER"
+        ]
+    },
+    {
+        "gloss": "BLUETOOTH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BMW",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOARD",
+        "category": "CORE",
+        "anchor": [
+            "BOARD OF GOVERNORS",
+            "BOARD OF ASSESSMENT",
+            "BOARD OR BOARD OF DIRECTORS"
+        ]
+    },
+    {
+        "gloss": "BOARDING PASS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOARDING"
+        ]
+    },
+    {
+        "gloss": "BOAT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BODY",
+        "category": "CORE",
+        "anchor": [
+            "BODY PAIN",
+            "BODY ARMOUR",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PIERCING",
+            "BODY PARTS"
+        ]
+    },
+    {
+        "gloss": "BODY LOTION, BODY MOISTURIZER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY PAIN",
+            "BODY ARMOUR",
+            "BODY PIERCING",
+            "BODY PARTS",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BODY PAIN",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY ARMOUR",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PIERCING",
+            "BODY PARTS",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BODY PARTS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY PAIN",
+            "BODY ARMOUR",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PIERCING",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BODY PIERCING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY PAIN",
+            "BODY ARMOUR",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PARTS",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BONE",
+        "category": "CORE",
+        "anchor": [
+            "BONE CANCER OSTEOSARCOMA AND MALIGNANT FIBROUS HISTIOCYTOMA",
+            "BONE CELLS"
+        ]
+    },
+    {
+        "gloss": "BOOK",
+        "category": "CORE",
+        "anchor": [
+            "BOOK STALL"
+        ]
+    },
+    {
+        "gloss": "BOOKCASE, BOOKSHELF",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOKMARK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORDER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORED, UNINTERESTED",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BORN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORROW",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOSS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTH, COUPLE, PAIR",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTTLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTTLEFEED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTTOM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOUNCE, REBOUND",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOUNCER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOUNDARY LINE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOUNDARY OF CURVE"
+        ]
+    },
+    {
+        "gloss": "BOUQUET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOWL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOWLED",
+        "category": "CORE",
+        "anchor": [
+            "BOWLED OUT"
+        ]
+    },
+    {
+        "gloss": "BOWLED OUT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOWLED"
+        ]
+    },
+    {
+        "gloss": "BOWLER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOX",
+        "category": "CORE",
+        "anchor": [
+            "BOX PLEATS"
+        ]
+    },
+    {
+        "gloss": "BOXING",
+        "category": "CORE",
+        "anchor": [
+            "BOXING RING"
+        ]
+    },
+    {
+        "gloss": "BOY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOYFRIEND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAHMA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAID, PLAIT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAIN",
+        "category": "CORE",
+        "anchor": [
+            "BRAIN FOG",
+            "BRAIN TUMOR",
+            "BRAIN STEM GLIOMA",
+            "BRAIN MAPPING TEST, BRAIN ELECTRICAL ACTIVATION PROFILE TEST, P300 WAVES TEST",
+            "BRAIN INJURY"
+        ]
+    },
+    {
+        "gloss": "BRAKE LIGHTS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAKE",
+            "BRAKE LIGHT"
+        ]
+    },
+    {
+        "gloss": "BRANCH, SUBDIVISION, CLASSIFICATION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAVE, BOLD, COURAGEOUS, STRONG",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAY, HEE HAW",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BREAD",
+        "category": "CORE",
+        "anchor": [
+            "BREAD BOARDS"
+        ]
+    },
+    {
+        "gloss": "BREAK",
+        "category": "CORE",
+        "anchor": [
+            "BREAK PLATE",
+            "BREAK UP",
+            "BREAK POINT",
+            "BREAK THE ICE",
+            "BREAK A LEG"
+        ]
+    },
+    {
+        "gloss": "BREAK POINT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK PLATE",
+            "BREAK",
+            "BREAK UP",
+            "BREAK THE ICE",
+            "BREAK A LEG"
+        ]
+    },
+    {
+        "gloss": "BREAK UP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK PLATE",
+            "BREAK",
+            "BREAK POINT",
+            "BREAK THE ICE",
+            "BREAK A LEG"
+        ]
+    },
+    {
+        "gloss": "BREAK, PAUSE, TIME OUT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK, SEVER, SPLIT"
+        ]
+    },
+    {
+        "gloss": "BREAK, SEVER, SPLIT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK, PAUSE, TIME OUT"
+        ]
+    },
+    {
+        "gloss": "BREAKFAST",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BREASTFEED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BREASTSTROKE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BREATHE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRIBE, GRAFT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRICK",
+        "category": "CORE",
+        "anchor": [
+            "BRICK MASONRY"
+        ]
+    },
+    {
+        "gloss": "BRIDE",
+        "category": "CORE",
+        "anchor": [
+            "BRIDE BURNING"
+        ]
+    },
+    {
+        "gloss": "BRIDEGROOM, GROOM",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRIEF",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRIEFCASE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRIGHT",
+        "category": "CORE",
+        "anchor": [
+            "BRIGHT AND EARLY"
+        ]
+    },
+    {
+        "gloss": "BRIGHT AND EARLY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRIGHT"
+        ]
+    },
+    {
+        "gloss": "BRINJAL, EGGPLANT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BROCHURE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROOM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROWN",
+        "category": "CORE",
+        "anchor": [
+            "BROWN RICE",
+            "BROWN SPORT OF RICE"
+        ]
+    },
+    {
+        "gloss": "BROWN RICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BROWN SPORT OF RICE",
+            "BROWN"
+        ]
+    },
+    {
+        "gloss": "BROWSE, LOOK THROUGH",
+        "category": "COMPOUND",
+        "anchor": [
+            "BROWSE, PERUSE, FLIP THROUGH, LEAF THROUGH"
+        ]
+    },
+    {
+        "gloss": "BROWSE, PERUSE, FLIP THROUGH, LEAF THROUGH",
+        "category": "COMPOUND",
+        "anchor": [
+            "BROWSE, LOOK THROUGH"
+        ]
+    },
+    {
+        "gloss": "BSNL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUCKET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUDDHA PURNIMA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDDHA STATUE"
+        ]
+    },
+    {
+        "gloss": "BUDDHA STATUE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDDHA PURNIMA"
+        ]
+    },
+    {
+        "gloss": "BUDDHISM, BUDDHIST",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUDGET, FUNDS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUFFALO",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUFFET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUGLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUGS BUNNY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUILDER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUILDING BLOCKS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUILDING STRUCTURE",
+            "BUILDING LIFTING TECHNIQUE",
+            "BUILDING AUTOMATION SYSTEM",
+            "BUILDING SITE"
+        ]
+    },
+    {
+        "gloss": "BUILDING STRUCTURE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUILDING SITE",
+            "BUILDING BLOCKS",
+            "BUILDING AUTOMATION SYSTEM",
+            "BUILDING LIFTING TECHNIQUE"
+        ]
+    },
+    {
+        "gloss": "BULB",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULLET",
+        "category": "CORE",
+        "anchor": [
+            "BULLET PROOF GLASS",
+            "BULLET PROOF VEHICLE",
+            "BULLET TRAIN"
+        ]
+    },
+    {
+        "gloss": "BULLET TRAIN",
+        "category": "COMPOUND",
+        "anchor": [
+            "BULLET PROOF GLASS",
+            "BULLET PROOF VEHICLE",
+            "BULLET"
+        ]
+    },
+    {
+        "gloss": "BULLETPROOF",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULLOCK CART",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BULL'S EYE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUNGEE JUMPING",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BURDEN, OVERLOAD, STRAIN",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BURGER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BURN",
+        "category": "CORE",
+        "anchor": [
+            "BURN THE MIDNIGHT OIL"
+        ]
+    },
+    {
+        "gloss": "BURQA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BURROW, WARREN",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BURY",
+        "category": "CORE",
+        "anchor": [
+            "BURY THE HATCHET"
+        ]
+    },
+    {
+        "gloss": "BUS",
+        "category": "CORE",
+        "anchor": [
+            "BUS BAR",
+            "BUS STOP",
+            "BUS RAPID TRANSIT",
+            "BUS CONDUCTOR"
+        ]
+    },
+    {
+        "gloss": "BUS CONDUCTOR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUS BAR",
+            "BUS STOP",
+            "BUS RAPID TRANSIT",
+            "BUS"
+        ]
+    },
+    {
+        "gloss": "BUSINESS",
+        "category": "CORE",
+        "anchor": [
+            "BUSINESS TOURISM",
+            "BUSINESS CARD, VISITING CARD",
+            "BUSINESS MINDED",
+            "BUSINESS EMAIL, ENTERPRISE EMAIL",
+            "BUSINESS CYCLES"
+        ]
+    },
+    {
+        "gloss": "BUSINESS CARD, VISITING CARD",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUSINESS TOURISM",
+            "BUSINESS MINDED",
+            "BUSINESS EMAIL, ENTERPRISE EMAIL",
+            "BUSINESS",
+            "BUSINESS CYCLES"
+        ]
+    },
+    {
+        "gloss": "BUST, STATUE, MEMORIAL",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUSY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUTTER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUTTERFLY STROKE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUTTERFLY CLIP"
+        ]
+    },
+    {
+        "gloss": "BUTTON",
+        "category": "CORE",
+        "anchor": [
+            "BUTTON LOOP",
+            "BUTTON DOWN",
+            "BUTTON PLACKET",
+            "BUTTON HOLE"
+        ]
+    },
+    {
+        "gloss": "BUZZ, WHINE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BYE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BYE, GOODBYE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BYSTANDER, ONLOOKER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "B.A",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "B.COM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "B.E",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "B.ED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "B.PHARMA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "B.SC",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BABYLONIANS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACHELOR OF MEDICINE AND BACHELOR OF SURGERY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACHELOR",
+            "BACHELOR OF VOCATIONAL EDUCATION"
+        ]
+    },
+    {
+        "gloss": "BACHELOR OF VOCATIONAL EDUCATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACHELOR",
+            "BACHELOR OF MEDICINE AND BACHELOR OF SURGERY"
+        ]
+    },
+    {
+        "gloss": "BACKDATE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKFLOW",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKUP",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACTERIA",
+        "category": "CORE",
+        "anchor": [
+            "BACTERIA OF PLANTS"
+        ]
+    },
+    {
+        "gloss": "BAFFLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAGASSE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAIL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAKING SODA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BALANCE OF INTERNATIONAL PAYMENTS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALANCE",
+            "BALANCE OF TRADE",
+            "BALANCE SHEET"
+        ]
+    },
+    {
+        "gloss": "BALANCE OF TRADE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALANCE",
+            "BALANCE OF INTERNATIONAL PAYMENTS",
+            "BALANCE SHEET"
+        ]
+    },
+    {
+        "gloss": "BALANCE SHEET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALANCE",
+            "BALANCE OF INTERNATIONAL PAYMENTS",
+            "BALANCE OF TRADE"
+        ]
+    },
+    {
+        "gloss": "BALANCED DIET",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BALL AND SOCKET JOINT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALL BEARING",
+            "BALL BONDING",
+            "BALL",
+            "BALL PEIN HAMMER"
+        ]
+    },
+    {
+        "gloss": "BALL BEARING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALL BONDING",
+            "BALL",
+            "BALL PEIN HAMMER",
+            "BALL AND SOCKET JOINT"
+        ]
+    },
+    {
+        "gloss": "BALLOT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANK RATE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANK STATEMENT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BAR GRAPH",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAR TACK",
+            "BAR",
+            "BAR CODE READER",
+            "BAR EXAMINATION",
+            "BAR GRAPH, BAR DIAGRAM"
+        ]
+    },
+    {
+        "gloss": "BAR GRAPH, BAR DIAGRAM",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAR TACK",
+            "BAR",
+            "BAR CODE READER",
+            "BAR GRAPH",
+            "BAR EXAMINATION"
+        ]
+    },
+    {
+        "gloss": "BARRIER FREE ENVIRONMENT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BARTER SYSTEM",
+        "category": "COMPOUND",
+        "anchor": [
+            "BARTER"
+        ]
+    },
+    {
+        "gloss": "BASE",
+        "category": "CORE",
+        "anchor": [
+            "BASE POPULATION",
+            "BASE LOAD",
+            "BASE BOARD",
+            "BASE AND HEIGHT",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BASE AND HEIGHT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE POPULATION",
+            "BASE LOAD",
+            "BASE BOARD",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BASE LOAD",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE POPULATION",
+            "BASE BOARD",
+            "BASE AND HEIGHT",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BASE POPULATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE LOAD",
+            "BASE BOARD",
+            "BASE AND HEIGHT",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BASIC NEEDS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASIC PAY",
+            "BASIC",
+            "BASIC NEEDS AND UNIVERSAL ACCESS"
+        ]
+    },
+    {
+        "gloss": "BASIC NEEDS AND UNIVERSAL ACCESS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASIC PAY",
+            "BASIC",
+            "BASIC NEEDS"
+        ]
+    },
+    {
+        "gloss": "BATTERY",
+        "category": "CORE",
+        "anchor": [
+            "BATTERY ELIMINATOR"
+        ]
+    },
+    {
+        "gloss": "BATTLE",
+        "category": "CORE",
+        "anchor": [
+            "BATTLE OF PLASSEY"
+        ]
+    },
+    {
+        "gloss": "BATTLE OF PLASSEY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BATTLE"
+        ]
+    },
+    {
+        "gloss": "BEAKER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEDOUINS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEDROCK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEE HIVE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEFORE CHRIST AND ANNO DOMINI",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEFORE",
+            "BEFORE HAND"
+        ]
+    },
+    {
+        "gloss": "BEHAVIOUR",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEHAVIOURISM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BENCHMARK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BENEFIT PRINCIPLE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BERIBERI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEST PRACTICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEST"
+        ]
+    },
+    {
+        "gloss": "BHAGA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BHAKTI",
+        "category": "CORE",
+        "anchor": [
+            "BHAKTI MOVEMENT"
+        ]
+    },
+    {
+        "gloss": "BHAKTI MOVEMENT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BHAKTI"
+        ]
+    },
+    {
+        "gloss": "BICULTURAL BILINGUALISM",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BI-FOCAL LENSES",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIG BANG THEORY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIG TOE",
+            "BIG"
+        ]
+    },
+    {
+        "gloss": "BIGGER INTEGER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BILINGUALISM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BILL BOARD",
+        "category": "COMPOUND",
+        "anchor": [
+            "BILL OF LADING",
+            "BILL"
+        ]
+    },
+    {
+        "gloss": "BILLL OF EXCHANGE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIMODAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BINARY FISSION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BINARY"
+        ]
+    },
+    {
+        "gloss": "BIOACCUMULATION",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOCAPACITY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOCHEMISTRY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOCOENOSIS, BIOCOENOSE, BIOCENOSE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIODEGRADABLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIODIVERSITY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOELEMENT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOENERGY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOFUEL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOGAS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOGEOCHEMICAL CYCLE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOGRAPHY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOINFORMATICS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOLOGICAL OXYGEN DEMAND",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOLOGICAL EVIDENCE",
+            "BIOLOGICAL WEATHERING",
+            "BIOLOGICAL PSYCHOLOGY",
+            "BIOLOGICAL CONTROL"
+        ]
+    },
+    {
+        "gloss": "BIOLOGICAL PSYCHOLOGY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOLOGICAL EVIDENCE",
+            "BIOLOGICAL WEATHERING",
+            "BIOLOGICAL OXYGEN DEMAND",
+            "BIOLOGICAL CONTROL"
+        ]
+    },
+    {
+        "gloss": "BIOLOGY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOME",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOMEDICAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOPHYSICAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOREGION",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOREMEDIATION",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOTIC AND ABIOTIC",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIRTH RATE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIRTH CONTRAL PILL",
+            "BIRTH CERTIFICATE",
+            "BIRTH DEFECT"
+        ]
+    },
+    {
+        "gloss": "BISECTOR",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLACK HOLE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK",
+            "BLACK MARKET OR SHADOW ECONOMY OR UNDERGROUND ECONOMY",
+            "BLACK WATER",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK HOLE",
+            "BLACK",
+            "BLACK MARKET OR SHADOW ECONOMY OR UNDERGROUND ECONOMY",
+            "BLACK WATER"
+        ]
+    },
+    {
+        "gloss": "BLACK WATER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK HOLE",
+            "BLACK",
+            "BLACK MARKET OR SHADOW ECONOMY OR UNDERGROUND ECONOMY",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLIND SPOT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLIND ALLEY",
+            "BLIND STITCH"
+        ]
+    },
+    {
+        "gloss": "BLOCK EDUCATION OFFICER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOCK INSTITUTE OF TEACHER EDUCATION",
+            "BLOCK RESOURCE CENTRE",
+            "BLOCK"
+        ]
+    },
+    {
+        "gloss": "BLOCK INSTITUTE OF TEACHER EDUCATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOCK EDUCATION OFFICER",
+            "BLOCK RESOURCE CENTRE",
+            "BLOCK"
+        ]
+    },
+    {
+        "gloss": "BLOCK RESOURCE CENTRE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOCK EDUCATION OFFICER",
+            "BLOCK INSTITUTE OF TEACHER EDUCATION",
+            "BLOCK"
+        ]
+    },
+    {
+        "gloss": "BLOOD VESSEL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD",
+            "BLOOD BANK",
+            "BLOOD CELLS"
+        ]
+    },
+    {
+        "gloss": "BLOTTING PAPER, FILTER PAPER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLUE WATER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLUE REVOLUTION",
+            "BLUE",
+            "BLUE FLOWERED PLANTS"
+        ]
+    },
+    {
+        "gloss": "BOARD OF ASSESSMENT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOARD OF GOVERNORS",
+            "BOARD OR BOARD OF DIRECTORS",
+            "BOARD"
+        ]
+    },
+    {
+        "gloss": "BOARD OF GOVERNORS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOARD OR BOARD OF DIRECTORS",
+            "BOARD OF ASSESSMENT",
+            "BOARD"
+        ]
+    },
+    {
+        "gloss": "BOARD OR BOARD OF DIRECTORS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOARD OF GOVERNORS",
+            "BOARD OF ASSESSMENT",
+            "BOARD"
+        ]
+    },
+    {
+        "gloss": "BODHISATTVA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BODMAS RULE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOILED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOILING POINT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOMBARDED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOREAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORROWING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORROWING, CORE BORROWING, CULTURAL BORROWING",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTTLED WATER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOUNDARY OF CURVE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOUNDARY LINE"
+        ]
+    },
+    {
+        "gloss": "BOYCOTT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRACKETS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAHMANAS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAHMI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAHMIN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAHMIN, KSHATRIYA, VAISHYA AND SHUDRA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAMHCHARYA, GRIHASTHA, VANPRASTHA, SANYAS AND ASHRAM",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAND",
+        "category": "CORE",
+        "anchor": [
+            "BRAND STRETCHING",
+            "BRAND LOYALTY",
+            "BRAND LEADER",
+            "BRAND MANAGER"
+        ]
+    },
+    {
+        "gloss": "BRAND LEADER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAND",
+            "BRAND LOYALTY",
+            "BRAND STRETCHING",
+            "BRAND MANAGER"
+        ]
+    },
+    {
+        "gloss": "BRAND LOYALTY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAND",
+            "BRAND STRETCHING",
+            "BRAND LEADER",
+            "BRAND MANAGER"
+        ]
+    },
+    {
+        "gloss": "BRAND MANAGER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAND",
+            "BRAND LOYALTY",
+            "BRAND LEADER",
+            "BRAND STRETCHING"
+        ]
+    },
+    {
+        "gloss": "BRAND STRETCHING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAND",
+            "BRAND LOYALTY",
+            "BRAND LEADER",
+            "BRAND MANAGER"
+        ]
+    },
+    {
+        "gloss": "BRANDING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BREADTH OF A RECTANGLE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BREATHING RATE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BREEDING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRISTLES",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRITISH RULERS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BROAD-ACRE FARM",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BROADCAST",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROKEN LINE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BROKEN HEARTED"
+        ]
+    },
+    {
+        "gloss": "BROMELIADS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRONZE AGE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BROWNFIELD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROWNIAN MOTION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BTE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUCCAL CAVITY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUDGET",
+        "category": "CORE",
+        "anchor": [
+            "BUDGET TRAVELERS",
+            "BUDGET BALANCE",
+            "BUDGET REVENUES",
+            "BUDGET DEFICIT",
+            "BUDGET SURPLUS"
+        ]
+    },
+    {
+        "gloss": "BUDGET BALANCE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDGET",
+            "BUDGET TRAVELERS",
+            "BUDGET REVENUES",
+            "BUDGET DEFICIT",
+            "BUDGET SURPLUS"
+        ]
+    },
+    {
+        "gloss": "BUDGET DEFICIT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDGET",
+            "BUDGET TRAVELERS",
+            "BUDGET BALANCE",
+            "BUDGET REVENUES",
+            "BUDGET SURPLUS"
+        ]
+    },
+    {
+        "gloss": "BUDGET REVENUES",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDGET",
+            "BUDGET TRAVELERS",
+            "BUDGET BALANCE",
+            "BUDGET DEFICIT",
+            "BUDGET SURPLUS"
+        ]
+    },
+    {
+        "gloss": "BUDGET SURPLUS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDGET",
+            "BUDGET TRAVELERS",
+            "BUDGET BALANCE",
+            "BUDGET REVENUES",
+            "BUDGET DEFICIT"
+        ]
+    },
+    {
+        "gloss": "BUDGET TRAVELERS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUDGET",
+            "BUDGET BALANCE",
+            "BUDGET REVENUES",
+            "BUDGET DEFICIT",
+            "BUDGET SURPLUS"
+        ]
+    },
+    {
+        "gloss": "BURETTE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BURIAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BURNER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUSINESS CYCLES",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUSINESS TOURISM",
+            "BUSINESS CARD, VISITING CARD",
+            "BUSINESS MINDED",
+            "BUSINESS EMAIL, ENTERPRISE EMAIL",
+            "BUSINESS"
+        ]
+    },
+    {
+        "gloss": "BUSINESS TOURISM",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUSINESS CARD, VISITING CARD",
+            "BUSINESS MINDED",
+            "BUSINESS EMAIL, ENTERPRISE EMAIL",
+            "BUSINESS",
+            "BUSINESS CYCLES"
+        ]
+    },
+    {
+        "gloss": "BACKYARD SYSTEM OF POULTRY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BACTERIA OF PLANTS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACTERIA"
+        ]
+    },
+    {
+        "gloss": "BACTERIAL DISEASES ANIMALS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BALCONY GARDEN",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALCONY"
+        ]
+    },
+    {
+        "gloss": "BAMBUSA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANDING OF RINGING METHOD",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BARLERIA CRISTATA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BASE LINE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE POPULATION",
+            "BASE LOAD",
+            "BASE BOARD",
+            "BASE AND HEIGHT"
+        ]
+    },
+    {
+        "gloss": "BAUHINIA ACCUMINATA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEAM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BENCH MARK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BENCH VICE",
+            "BENCH",
+            "BENCH PRESS"
+        ]
+    },
+    {
+        "gloss": "BIENNIAL WEEDS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BILATERAL TRADE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BILATERAL"
+        ]
+    },
+    {
+        "gloss": "BINNIAL PLANTS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOLOGICAL CONTROL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOLOGICAL EVIDENCE",
+            "BIOLOGICAL OXYGEN DEMAND",
+            "BIOLOGICAL PSYCHOLOGY",
+            "BIOLOGICAL WEATHERING"
+        ]
+    },
+    {
+        "gloss": "BIOLOGICAL WEATHERING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOLOGICAL EVIDENCE",
+            "BIOLOGICAL OXYGEN DEMAND",
+            "BIOLOGICAL PSYCHOLOGY",
+            "BIOLOGICAL CONTROL"
+        ]
+    },
+    {
+        "gloss": "BLEEDING",
+        "category": "CORE",
+        "anchor": [
+            "BLEEDING DISORDERS"
+        ]
+    },
+    {
+        "gloss": "BLIGHT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOCKY STRUCTURE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOWER SPRAYER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOWER"
+        ]
+    },
+    {
+        "gloss": "BLUE FLOWERED PLANTS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLUE",
+            "BLUE REVOLUTION",
+            "BLUE WATER"
+        ]
+    },
+    {
+        "gloss": "BLUE REVOLUTION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLUE",
+            "BLUE FLOWERED PLANTS",
+            "BLUE WATER"
+        ]
+    },
+    {
+        "gloss": "BONSAI OR MINICULTURE OR MINI GARDEN",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTANICAL CLASSIFICATION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BREEDS",
+        "category": "CORE",
+        "anchor": [
+            "BREEDS OF POULTRY"
+        ]
+    },
+    {
+        "gloss": "BREEDS OF POULTRY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREEDS"
+        ]
+    },
+    {
+        "gloss": "BRIDGE GRAFTING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRIDGE"
+        ]
+    },
+    {
+        "gloss": "BROILER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROKER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROODING OF CHICKS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BROWN SPORT OF RICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BROWN RICE",
+            "BROWN"
+        ]
+    },
+    {
+        "gloss": "BUFFALOW FARMING",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BULLY CALF",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BY BULB ROOTS & RHIZOMES",
+        "category": "COMPOUND",
+        "anchor": [
+            "BY LAW",
+            "BY THE SKIN OF ONE'S TEETH"
+        ]
+    },
+    {
+        "gloss": "BELGIUM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOSNIA-HERZEGOVINA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAZIL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BURUNDI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BHARAT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACK OFFICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK UP",
+            "BACK LINK",
+            "BACK PART",
+            "BACK DATE",
+            "BACK"
+        ]
+    },
+    {
+        "gloss": "BANKRUPTCY",
+        "category": "CORE",
+        "anchor": [
+            "BANKRUPTCY ORDER"
+        ]
+    },
+    {
+        "gloss": "BENEFECIARY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BILLS PURCHASED",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOTTER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BONDS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORROWER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROKERAGE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROKERS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUY INS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BARKING UP THE WRONG TREE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BETTER LATE THAN NEVER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BETTER"
+        ]
+    },
+    {
+        "gloss": "BE ON SOMEONE'S BACK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BE YOURSELF"
+        ]
+    },
+    {
+        "gloss": "BIRDS OF A FEATHER FLOCK TOGETHER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIRDS"
+        ]
+    },
+    {
+        "gloss": "BITE THE BULLET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BITE"
+        ]
+    },
+    {
+        "gloss": "BREAK A LEG",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK PLATE",
+            "BREAK",
+            "BREAK UP",
+            "BREAK POINT",
+            "BREAK THE ICE"
+        ]
+    },
+    {
+        "gloss": "BREAK THE ICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK PLATE",
+            "BREAK",
+            "BREAK UP",
+            "BREAK POINT",
+            "BREAK A LEG"
+        ]
+    },
+    {
+        "gloss": "BURN THE MIDNIGHT OIL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BURN"
+        ]
+    },
+    {
+        "gloss": "BURY THE HATCHET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BURY"
+        ]
+    },
+    {
+        "gloss": "BY THE SKIN OF ONE'S TEETH",
+        "category": "COMPOUND",
+        "anchor": [
+            "BY BULB ROOTS & RHIZOMES",
+            "BY LAW"
+        ]
+    },
+    {
+        "gloss": "BACK DATE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK OFFICE",
+            "BACK UP",
+            "BACK LINK",
+            "BACK PART",
+            "BACK"
+        ]
+    },
+    {
+        "gloss": "BACK UP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK OFFICE",
+            "BACK LINK",
+            "BACK PART",
+            "BACK DATE",
+            "BACK"
+        ]
+    },
+    {
+        "gloss": "BACKDOOR OR TRAPDOOR",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKLOG",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAD CLIMATE ALLOWANCE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAD LANGUAGE, VERBAL ABUSE",
+            "BAD",
+            "BAD BLOOD"
+        ]
+    },
+    {
+        "gloss": "BAILABLE OFFENCE, NON BAILABLE OFFENCE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BAILEE, BAILOR, BAILMENT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BAILIFF",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAILOUT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALANCESHEET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANK HOLIDAY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANK BRANCH ADDRESS",
+            "BANK BRANCH NAME",
+            "BANK",
+            "BANK ACCOUNT NUMBER",
+            "BANK BRANCH CODE"
+        ]
+    },
+    {
+        "gloss": "BANKRUPTCY ORDER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BANKRUPTCY"
+        ]
+    },
+    {
+        "gloss": "BAR",
+        "category": "CORE",
+        "anchor": [
+            "BAR TACK",
+            "BAR GRAPH",
+            "BAR CODE READER",
+            "BAR EXAMINATION",
+            "BAR GRAPH, BAR DIAGRAM"
+        ]
+    },
+    {
+        "gloss": "BAR EXAMINATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAR TACK",
+            "BAR",
+            "BAR GRAPH",
+            "BAR CODE READER",
+            "BAR GRAPH, BAR DIAGRAM"
+        ]
+    },
+    {
+        "gloss": "BARGAIN & SALE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BARRICADE TAPE OR CAUTION TAPE OR WARNING TAPE OR DANGER TAPE OR POLICE TAPE OR HAZARD TAPE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BARRICADE"
+        ]
+    },
+    {
+        "gloss": "BARTER",
+        "category": "CORE",
+        "anchor": [
+            "BARTER SYSTEM"
+        ]
+    },
+    {
+        "gloss": "BASIC PAY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASIC",
+            "BASIC NEEDS AND UNIVERSAL ACCESS",
+            "BASIC NEEDS"
+        ]
+    },
+    {
+        "gloss": "BATON OR NIGHT STICK",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BATTERED CHILD SYNDROME",
+        "category": "COMPOUND",
+        "anchor": [
+            "BATTERED WIFE SYNDROME"
+        ]
+    },
+    {
+        "gloss": "BATTERED WIFE SYNDROME",
+        "category": "COMPOUND",
+        "anchor": [
+            "BATTERED CHILD SYNDROME"
+        ]
+    },
+    {
+        "gloss": "BATTERY, SPOUSAL BATTERY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEARER, BENEFICIARY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEAT , BEAT OFFICER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEAT",
+            "BEAT AROUND THE BUSH"
+        ]
+    },
+    {
+        "gloss": "BEFORE HAND",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEFORE",
+            "BEFORE CHRIST AND ANNO DOMINI"
+        ]
+    },
+    {
+        "gloss": "BELIEF",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BENAMI TRANSACTION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BENCH",
+        "category": "CORE",
+        "anchor": [
+            "BENCH VICE",
+            "BENCH MARK",
+            "BENCH PRESS"
+        ]
+    },
+    {
+        "gloss": "BENEFICIARY, BEQUEATH, BEQUEST, WILL",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BESTIALITY OR ZOOPHILIA OR SODOMY",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BESTOW",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIASED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BID, AUCTION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIDDER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIGAMY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIGOTRY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOLOGICAL EVIDENCE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOLOGICAL WEATHERING",
+            "BIOLOGICAL OXYGEN DEMAND",
+            "BIOLOGICAL PSYCHOLOGY",
+            "BIOLOGICAL CONTROL"
+        ]
+    },
+    {
+        "gloss": "BIOMETRIC",
+        "category": "CORE",
+        "anchor": [
+            "BIOMETRIC AUTHENTICATION"
+        ]
+    },
+    {
+        "gloss": "BIRTH CERTIFICATE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIRTH RATE",
+            "BIRTH CONTRAL PILL",
+            "BIRTH DEFECT"
+        ]
+    },
+    {
+        "gloss": "BLACK MARKET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK HOLE",
+            "BLACK",
+            "BLACK MARKET OR SHADOW ECONOMY OR UNDERGROUND ECONOMY",
+            "BLACK WATER",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLACK MARKET OR SHADOW ECONOMY OR UNDERGROUND ECONOMY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK HOLE",
+            "BLACK",
+            "BLACK WATER",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLACKLIST",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLACKMAIL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BODILY HARM , ACTUAL BODILY HARM, GRIEVOUS BODILY HARM",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BODY ARMOUR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY PAIN",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PIERCING",
+            "BODY PARTS",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BOMB SQUAD OR BOMB DISPOSAL",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BONA VACANTIA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BONAFIDE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BONDED GOODS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BONDED LABOUR"
+        ]
+    },
+    {
+        "gloss": "BONDED LABOUR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BONDED GOODS"
+        ]
+    },
+    {
+        "gloss": "BONUS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOKING",
+        "category": "CORE",
+        "anchor": [
+            "BOOKING SUMMARY"
+        ]
+    },
+    {
+        "gloss": "BOOKMAKER OR BOOKIE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BORSTAL SCHOOL",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAIN MAPPING TEST, BRAIN ELECTRICAL ACTIVATION PROFILE TEST, P300 WAVES TEST",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAIN FOG",
+            "BRAIN TUMOR",
+            "BRAIN STEM GLIOMA",
+            "BRAIN INJURY",
+            "BRAIN"
+        ]
+    },
+    {
+        "gloss": "BRANCH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRANDISHING OF A WEAPON",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BREACH OF CODE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREACH OF DUTY"
+        ]
+    },
+    {
+        "gloss": "BREACH OF DUTY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREACH OF CODE"
+        ]
+    },
+    {
+        "gloss": "BREATHALYZER",
+        "category": "CORE",
+        "anchor": [
+            "BREATHALYZER TEST"
+        ]
+    },
+    {
+        "gloss": "BREATHALYZER TEST",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREATHALYZER"
+        ]
+    },
+    {
+        "gloss": "BRIDE BURNING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRIDE"
+        ]
+    },
+    {
+        "gloss": "BROTHEL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULLET PROOF VEHICLE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BULLET PROOF GLASS",
+            "BULLET",
+            "BULLET TRAIN"
+        ]
+    },
+    {
+        "gloss": "BURDEN",
+        "category": "CORE",
+        "anchor": [
+            "BURDEN OF PROOF"
+        ]
+    },
+    {
+        "gloss": "BURDEN OF PROOF",
+        "category": "COMPOUND",
+        "anchor": [
+            "BURDEN"
+        ]
+    },
+    {
+        "gloss": "BURGLARY OR BREAKING & ENTERING , BURGLAR",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BY LAW",
+        "category": "COMPOUND",
+        "anchor": [
+            "BY BULB ROOTS & RHIZOMES",
+            "BY THE SKIN OF ONE'S TEETH"
+        ]
+    },
+    {
+        "gloss": "BYELAWS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BABY COT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BABY",
+            "BABY CARE",
+            "BABY SHOWER"
+        ]
+    },
+    {
+        "gloss": "BACKACHE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAG MASK DEVICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAG"
+        ]
+    },
+    {
+        "gloss": "BALDNESS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARIATRICS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BED CRADLE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BED REST"
+        ]
+    },
+    {
+        "gloss": "BELLY BUTTON",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BENCH PRESS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BENCH VICE",
+            "BENCH",
+            "BENCH MARK"
+        ]
+    },
+    {
+        "gloss": "BENIGN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIFOCAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIG TOE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIG BANG THEORY",
+            "BIG"
+        ]
+    },
+    {
+        "gloss": "BILE",
+        "category": "CORE",
+        "anchor": [
+            "BILE DUCT CANCER"
+        ]
+    },
+    {
+        "gloss": "BILE DUCT CANCER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BILE"
+        ]
+    },
+    {
+        "gloss": "BILIRUBIN METER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BINGE EATING",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BINOCULAR MICROSCOPE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOPSY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIRTH CONTRAL PILL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIRTH RATE",
+            "BIRTH CERTIFICATE",
+            "BIRTH DEFECT"
+        ]
+    },
+    {
+        "gloss": "BIRTH DEFECT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIRTH RATE",
+            "BIRTH CONTRAL PILL",
+            "BIRTH CERTIFICATE"
+        ]
+    },
+    {
+        "gloss": "BLADDER",
+        "category": "CORE",
+        "anchor": [
+            "BLADDER CANCER"
+        ]
+    },
+    {
+        "gloss": "BLADDER CANCER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLADDER"
+        ]
+    },
+    {
+        "gloss": "BLEEDING DISORDERS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLEEDING"
+        ]
+    },
+    {
+        "gloss": "BLINDNESS AND LOW VISION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOOD BANK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD CELLS"
+        ]
+    },
+    {
+        "gloss": "BLOOD BANK REFRIGERATOR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK",
+            "BLOOD CELLS"
+        ]
+    },
+    {
+        "gloss": "BLOOD CELLS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BLOOD GROUP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BLOOD INFUSION SET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BLOOD LANCET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BLOOD PRESSURE CUFF",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BLOOD TRANSFUSION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BOIL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BONE CANCER OSTEOSARCOMA AND MALIGNANT FIBROUS HISTIOCYTOMA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BONE",
+            "BONE CELLS"
+        ]
+    },
+    {
+        "gloss": "BONE CELLS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BONE",
+            "BONE CANCER OSTEOSARCOMA AND MALIGNANT FIBROUS HISTIOCYTOMA"
+        ]
+    },
+    {
+        "gloss": "BOWEL",
+        "category": "CORE",
+        "anchor": [
+            "BOWEL INCONTINENCE",
+            "BOWEL REST"
+        ]
+    },
+    {
+        "gloss": "BOWEL INCONTINENCE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOWEL",
+            "BOWEL REST"
+        ]
+    },
+    {
+        "gloss": "BOWEL REST",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOWEL",
+            "BOWEL INCONTINENCE"
+        ]
+    },
+    {
+        "gloss": "BP MACHINE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRACE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAILLE",
+        "category": "CORE",
+        "anchor": [
+            "BRAILLE PLATE",
+            "BRAILLE MAP"
+        ]
+    },
+    {
+        "gloss": "BRAIN INJURY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAIN FOG",
+            "BRAIN TUMOR",
+            "BRAIN STEM GLIOMA",
+            "BRAIN MAPPING TEST, BRAIN ELECTRICAL ACTIVATION PROFILE TEST, P300 WAVES TEST",
+            "BRAIN"
+        ]
+    },
+    {
+        "gloss": "BRAIN STEM GLIOMA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAIN FOG",
+            "BRAIN TUMOR",
+            "BRAIN MAPPING TEST, BRAIN ELECTRICAL ACTIVATION PROFILE TEST, P300 WAVES TEST",
+            "BRAIN INJURY",
+            "BRAIN"
+        ]
+    },
+    {
+        "gloss": "BRAIN TUMOR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAIN FOG",
+            "BRAIN STEM GLIOMA",
+            "BRAIN MAPPING TEST, BRAIN ELECTRICAL ACTIVATION PROFILE TEST, P300 WAVES TEST",
+            "BRAIN INJURY",
+            "BRAIN"
+        ]
+    },
+    {
+        "gloss": "BREAST",
+        "category": "CORE",
+        "anchor": [
+            "BREAST CANCER"
+        ]
+    },
+    {
+        "gloss": "BREAST CANCER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAST"
+        ]
+    },
+    {
+        "gloss": "BREASTBONE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRONCHIAL TUMORS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRONCHITIS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRONCHOSCOPY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRUISE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULBOURETHRAL GLANDS, COWPER'S GLANDS, MERY'S GLANDS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BULIMIA",
+        "category": "CORE",
+        "anchor": [
+            "BULIMIA NERVOSA"
+        ]
+    },
+    {
+        "gloss": "BUTTOCKS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARRICADE",
+        "category": "CORE",
+        "anchor": [
+            "BARRICADE TAPE OR CAUTION TAPE OR WARNING TAPE OR DANGER TAPE OR POLICE TAPE OR HAZARD TAPE"
+        ]
+    },
+    {
+        "gloss": "BHUBANESWAR",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIHAR",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "B ROLL",
+        "category": "COMPOUND",
+        "anchor": [
+            "B"
+        ]
+    },
+    {
+        "gloss": "BACK LINK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK OFFICE",
+            "BACK UP",
+            "BACK PART",
+            "BACK DATE",
+            "BACK"
+        ]
+    },
+    {
+        "gloss": "BACKSTITCH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALL BONDING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALL BEARING",
+            "BALL",
+            "BALL PEIN HAMMER",
+            "BALL AND SOCKET JOINT"
+        ]
+    },
+    {
+        "gloss": "BALL PEIN HAMMER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALL BEARING",
+            "BALL BONDING",
+            "BALL",
+            "BALL AND SOCKET JOINT"
+        ]
+    },
+    {
+        "gloss": "BALLAST DEVICE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BALLOON PUMP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BALLOON"
+        ]
+    },
+    {
+        "gloss": "BALLOONS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALLPOINT NEEDLE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BALLROOM",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALMACAAN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BALUSTER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAND COLLAR",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BAR CODE READER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAR TACK",
+            "BAR",
+            "BAR GRAPH",
+            "BAR EXAMINATION",
+            "BAR GRAPH, BAR DIAGRAM"
+        ]
+    },
+    {
+        "gloss": "BAR TACK",
+        "category": "COMPOUND",
+        "anchor": [
+            "BAR",
+            "BAR GRAPH",
+            "BAR CODE READER",
+            "BAR EXAMINATION",
+            "BAR GRAPH, BAR DIAGRAM"
+        ]
+    },
+    {
+        "gloss": "BASE BOARD",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE POPULATION",
+            "BASE LOAD",
+            "BASE AND HEIGHT",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BASEBALL.JACKET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BASICS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BASTING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BATCHING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BATEAU NECKLINE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BATTERY ELIMINATOR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BATTERY"
+        ]
+    },
+    {
+        "gloss": "BCC",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEADING NEEDLES",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEARING",
+        "category": "CORE",
+        "anchor": [
+            "BEARING PULLER"
+        ]
+    },
+    {
+        "gloss": "BEARING PULLER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEARING"
+        ]
+    },
+    {
+        "gloss": "BELL BOTTOMS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BELL PEPPER",
+            "BELL SLEEVE",
+            "BELL"
+        ]
+    },
+    {
+        "gloss": "BELL SLEEVE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BELL PEPPER",
+            "BELL",
+            "BELL BOTTOMS"
+        ]
+    },
+    {
+        "gloss": "BELLBOY JACKET",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BELLOWS POCKET",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BELT LOOPS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BELT"
+        ]
+    },
+    {
+        "gloss": "BENCH VICE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BENCH",
+            "BENCH MARK",
+            "BENCH PRESS"
+        ]
+    },
+    {
+        "gloss": "BERMUDA SHORTS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BERTHA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BESOM POCKET",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BEVEL GEAR",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIAS COWL DRESS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIAS TAPE"
+        ]
+    },
+    {
+        "gloss": "BIAS TAPE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIAS COWL DRESS"
+        ]
+    },
+    {
+        "gloss": "BICEP LINE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BICYCLE SHORTS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIKE OIL FILTER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIKE SUSPENSION",
+            "BIKE SILENCER PIPE"
+        ]
+    },
+    {
+        "gloss": "BIKE SILENCER PIPE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIKE SUSPENSION",
+            "BIKE OIL FILTER"
+        ]
+    },
+    {
+        "gloss": "BIKE SUSPENSION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIKE OIL FILTER",
+            "BIKE SILENCER PIPE"
+        ]
+    },
+    {
+        "gloss": "BINARY",
+        "category": "CORE",
+        "anchor": [
+            "BINARY FISSION"
+        ]
+    },
+    {
+        "gloss": "BIPEDAL ROBOT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BISHOP SLEEVE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIT RATE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLEED",
+        "category": "CORE",
+        "anchor": [
+            "BLEED AREA"
+        ]
+    },
+    {
+        "gloss": "BLEED AREA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLEED"
+        ]
+    },
+    {
+        "gloss": "BLIND STITCH",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLIND SPOT",
+            "BLIND ALLEY"
+        ]
+    },
+    {
+        "gloss": "BLOGGER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOWER",
+        "category": "CORE",
+        "anchor": [
+            "BLOWER SPRAYER"
+        ]
+    },
+    {
+        "gloss": "BLUR SNAPSHOT",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BLURRING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOBBINET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BODICE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOLD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOLERO JACKET",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOLT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOND PAPER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOLEAN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BORING",
+        "category": "CORE",
+        "anchor": [
+            "BORING MACHINE"
+        ]
+    },
+    {
+        "gloss": "BORING MACHINE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BORING"
+        ]
+    },
+    {
+        "gloss": "BOUNCE RATE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOW TIE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOX PLEATS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOX"
+        ]
+    },
+    {
+        "gloss": "BRAKE LIGHT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAKE",
+            "BRAKE LIGHTS"
+        ]
+    },
+    {
+        "gloss": "BREAD BOARDS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAD"
+        ]
+    },
+    {
+        "gloss": "BREAKOUT ROOMS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BRICK MASONRY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRICK"
+        ]
+    },
+    {
+        "gloss": "BROADBAND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROWSE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUBBLE CHART",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUCKLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUILDING AUTOMATION SYSTEM",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUILDING STRUCTURE",
+            "BUILDING BLOCKS",
+            "BUILDING SITE",
+            "BUILDING LIFTING TECHNIQUE"
+        ]
+    },
+    {
+        "gloss": "BUILDING LIFTING TECHNIQUE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUILDING STRUCTURE",
+            "BUILDING BLOCKS",
+            "BUILDING AUTOMATION SYSTEM",
+            "BUILDING SITE"
+        ]
+    },
+    {
+        "gloss": "BUILDING SITE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUILDING STRUCTURE",
+            "BUILDING BLOCKS",
+            "BUILDING AUTOMATION SYSTEM",
+            "BUILDING LIFTING TECHNIQUE"
+        ]
+    },
+    {
+        "gloss": "BUILT UP AREA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BULLET PROOF GLASS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BULLET PROOF VEHICLE",
+            "BULLET",
+            "BULLET TRAIN"
+        ]
+    },
+    {
+        "gloss": "BUMP CUTTER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUS BAR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUS CONDUCTOR",
+            "BUS STOP",
+            "BUS RAPID TRANSIT",
+            "BUS"
+        ]
+    },
+    {
+        "gloss": "BUSHES",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUSINESS EMAIL, ENTERPRISE EMAIL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUSINESS TOURISM",
+            "BUSINESS CARD, VISITING CARD",
+            "BUSINESS MINDED",
+            "BUSINESS",
+            "BUSINESS CYCLES"
+        ]
+    },
+    {
+        "gloss": "BUTTON DOWN",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUTTON LOOP",
+            "BUTTON PLACKET",
+            "BUTTON",
+            "BUTTON HOLE"
+        ]
+    },
+    {
+        "gloss": "BUTTON HOLE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUTTON LOOP",
+            "BUTTON DOWN",
+            "BUTTON PLACKET",
+            "BUTTON"
+        ]
+    },
+    {
+        "gloss": "BUTTON LOOP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUTTON DOWN",
+            "BUTTON PLACKET",
+            "BUTTON",
+            "BUTTON HOLE"
+        ]
+    },
+    {
+        "gloss": "BUTTON PLACKET",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUTTON LOOP",
+            "BUTTON DOWN",
+            "BUTTON",
+            "BUTTON HOLE"
+        ]
+    },
+    {
+        "gloss": "BYTE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAOLI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOSPHERE",
+        "category": "CORE",
+        "anchor": [
+            "BIOSPHERE RESERVE"
+        ]
+    },
+    {
+        "gloss": "BIOSPHERE RESERVE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOSPHERE"
+        ]
+    },
+    {
+        "gloss": "BIRTHRIGHT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACK PART",
+        "category": "COMPOUND",
+        "anchor": [
+            "BACK OFFICE",
+            "BACK UP",
+            "BACK LINK",
+            "BACK DATE",
+            "BACK"
+        ]
+    },
+    {
+        "gloss": "BACKEND",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKHAUL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKPEDAL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAGGAGE",
+        "category": "CORE",
+        "anchor": [
+            "BAGGAGE RECLAIM"
+        ]
+    },
+    {
+        "gloss": "BALLARD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANDWIDTH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARGE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARRIER-FREE DESIGN",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BASE RUNNING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE POPULATION",
+            "BASE LOAD",
+            "BASE AND HEIGHT",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BASE YEAR",
+        "category": "COMPOUND",
+        "anchor": [
+            "BASE",
+            "BASE POPULATION",
+            "BASE LOAD",
+            "BASE AND HEIGHT",
+            "BASE LINE"
+        ]
+    },
+    {
+        "gloss": "BAY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEWILDERING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BID",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BILATERAL",
+        "category": "CORE",
+        "anchor": [
+            "BILATERAL TRADE"
+        ]
+    },
+    {
+        "gloss": "BILL OF LADING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BILL BOARD",
+            "BILL"
+        ]
+    },
+    {
+        "gloss": "BINOMIAL THEOREM",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOMETRIC AUTHENTICATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BIOMETRIC"
+        ]
+    },
+    {
+        "gloss": "BIOSWALES",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BITUMEN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLACK POINTS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK HOLE",
+            "BLACK",
+            "BLACK WATER",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLEEDER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOCKCHAIN",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOARDING",
+        "category": "CORE",
+        "anchor": [
+            "BOARDING PASS"
+        ]
+    },
+    {
+        "gloss": "BOLO PUNCH",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOKLET",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTTLENECK",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOUT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOXING RING",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOXING"
+        ]
+    },
+    {
+        "gloss": "BRACKETED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRAILLE MAP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAILLE PLATE",
+            "BRAILLE"
+        ]
+    },
+    {
+        "gloss": "BRAILLE PLATE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAILLE",
+            "BRAILLE MAP"
+        ]
+    },
+    {
+        "gloss": "BRAKE",
+        "category": "CORE",
+        "anchor": [
+            "BRAKE LIGHT",
+            "BRAKE LIGHTS"
+        ]
+    },
+    {
+        "gloss": "BRAWLER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BREAK PLATE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK",
+            "BREAK UP",
+            "BREAK POINT",
+            "BREAK THE ICE",
+            "BREAK A LEG"
+        ]
+    },
+    {
+        "gloss": "BREAK THE CHAIN OF TRANSMISSION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BREAK",
+            "BREAK UP",
+            "BREAK POINT",
+            "BREAK THE ICE",
+            "BREAK A LEG"
+        ]
+    },
+    {
+        "gloss": "BRIDGE",
+        "category": "CORE",
+        "anchor": [
+            "BRIDGE GRAFTING"
+        ]
+    },
+    {
+        "gloss": "BUDGETING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULLDOZER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUMPER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUREAU",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUS RAPID TRANSIT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUS CONDUCTOR",
+            "BUS STOP",
+            "BUS BAR",
+            "BUS"
+        ]
+    },
+    {
+        "gloss": "BUS STOP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUS CONDUCTOR",
+            "BUS RAPID TRANSIT",
+            "BUS BAR",
+            "BUS"
+        ]
+    },
+    {
+        "gloss": "BUSINESS MINDED",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUSINESS TOURISM",
+            "BUSINESS CARD, VISITING CARD",
+            "BUSINESS EMAIL, ENTERPRISE EMAIL",
+            "BUSINESS",
+            "BUSINESS CYCLES"
+        ]
+    },
+    {
+        "gloss": "BYPASS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BABBLING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BABY SHOWER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BABY",
+            "BABY CARE",
+            "BABY COT"
+        ]
+    },
+    {
+        "gloss": "BACHELOR",
+        "category": "CORE",
+        "anchor": [
+            "BACHELOR OF VOCATIONAL EDUCATION",
+            "BACHELOR OF MEDICINE AND BACHELOR OF SURGERY"
+        ]
+    },
+    {
+        "gloss": "BACHELORETTE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BACKFIRE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAGGING AREA",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BANDANA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BARTENDER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEEKEEPER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEG",
+        "category": "CORE",
+        "anchor": [
+            "BEG 1",
+            "BEG 2"
+        ]
+    },
+    {
+        "gloss": "BEGGAR",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIBLE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOSCIENCES",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLAZER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLINKIT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLOOD CLOT",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLOOD PRESSURE",
+            "BLOOD BANK REFRIGERATOR",
+            "BLOOD VESSEL",
+            "BLOOD",
+            "BLOOD BANK"
+        ]
+    },
+    {
+        "gloss": "BLUNT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLUSHING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOLLYWOOD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOOKING SUMMARY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOOKING"
+        ]
+    },
+    {
+        "gloss": "BOOKSTORE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTANY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTOX",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOUTIQUE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BELOW POVERTY LINE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BELOW"
+        ]
+    },
+    {
+        "gloss": "BREADWINNER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BREASTFEEDING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROKEN-HEARTED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUNGALOW",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUNK BED",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BUREAUCRAT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUTCHER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUTTERING",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BABY CARE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BABY",
+            "BABY SHOWER",
+            "BABY COT"
+        ]
+    },
+    {
+        "gloss": "BLIND ALLEY",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLIND SPOT",
+            "BLIND STITCH"
+        ]
+    },
+    {
+        "gloss": "BOOK STALL",
+        "category": "COMPOUND",
+        "anchor": [
+            "BOOK"
+        ]
+    },
+    {
+        "gloss": "BEHAVIOURAL ACTIVATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEHAVIOURAL DISORDERS"
+        ]
+    },
+    {
+        "gloss": "BEHAVIOURAL DISORDERS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEHAVIOURAL ACTIVATION"
+        ]
+    },
+    {
+        "gloss": "BEREAVEMENT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BETRAYED",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIPOLAR DISORDER",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BITTER",
+        "category": "CORE",
+        "anchor": [
+            "BITTER GOURD"
+        ]
+    },
+    {
+        "gloss": "BODY DYSMORPHIA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY PAIN",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PIERCING",
+            "BODY PARTS",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BODY POSITIVE",
+        "category": "COMPOUND",
+        "anchor": [
+            "BODY PAIN",
+            "BODY LOTION, BODY MOISTURIZER",
+            "BODY PIERCING",
+            "BODY PARTS",
+            "BODY"
+        ]
+    },
+    {
+        "gloss": "BRAIN FOG",
+        "category": "COMPOUND",
+        "anchor": [
+            "BRAIN TUMOR",
+            "BRAIN STEM GLIOMA",
+            "BRAIN MAPPING TEST, BRAIN ELECTRICAL ACTIVATION PROFILE TEST, P300 WAVES TEST",
+            "BRAIN INJURY",
+            "BRAIN"
+        ]
+    },
+    {
+        "gloss": "BRAIN'S FUNCTION",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BREAKING YOURSELF",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BULIMIA NERVOSA",
+        "category": "COMPOUND",
+        "anchor": [
+            "BULIMIA"
+        ]
+    },
+    {
+        "gloss": "BURNOUT",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BAISAKHI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BANGLADESH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEHAVIORAL INTERVENTIONS",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEHAVIORAL MODIFICATION"
+        ]
+    },
+    {
+        "gloss": "BEHAVIORAL MODIFICATION",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEHAVIORAL INTERVENTIONS"
+        ]
+    },
+    {
+        "gloss": "BELL PEPPER",
+        "category": "COMPOUND",
+        "anchor": [
+            "BELL SLEEVE",
+            "BELL",
+            "BELL BOTTOMS"
+        ]
+    },
+    {
+        "gloss": "BIHU FESTIVAL",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BILLION",
+        "category": "NUMBERS & TIME",
+        "anchor": []
+    },
+    {
+        "gloss": "BILLIONAIRE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIOMASS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BIPLANE",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLACK BOX",
+        "category": "COMPOUND",
+        "anchor": [
+            "BLACK MARKET",
+            "BLACK HOLE",
+            "BLACK",
+            "BLACK WATER",
+            "BLACK SOIL, REGUR SOIL, BLACK COTTON SOIL"
+        ]
+    },
+    {
+        "gloss": "BLASPHEMY",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BLUSH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOASTFUL",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOBBY PINS",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BOLIVIA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BOTSWANA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRICS",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BRIGHTENER",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROCCOLI",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BROOCH",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BULGARIA",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BUTTERFLY CLIP",
+        "category": "COMPOUND",
+        "anchor": [
+            "BUTTERFLY STROKE"
+        ]
+    },
+    {
+        "gloss": "BUZZARD",
+        "category": "CORE",
+        "anchor": []
+    },
+    {
+        "gloss": "BEG 1",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEG 2",
+            "BEG"
+        ]
+    },
+    {
+        "gloss": "BEG 2",
+        "category": "COMPOUND",
+        "anchor": [
+            "BEG 1",
+            "BEG"
+        ]
+    },
+    {
+        "gloss": "BPL - BELOW POVERTY LINE",
+        "category": "COMPOUND",
+        "anchor": []
+    },
+    {
+        "gloss": "BROKEN HEARTED",
+        "category": "COMPOUND",
+        "anchor": [
+            "BROKEN LINE"
+        ]
+    },
+    {
+        "gloss": "BUNKBED",
+        "category": "CORE",
+        "anchor": []
+    }
+]
